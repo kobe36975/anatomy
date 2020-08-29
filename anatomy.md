@@ -105,7 +105,7 @@
     1. attachment of <span class="red">**costoclavicular ligament**</span>
     2. limited elevation of shoulder
     :::
-- humerus
+- scapula
     :::spoiler <span class="dark-gray">*detail*</span>
     - position
         - posterolateral aspect of thorax
@@ -183,6 +183,32 @@
         1. attachment of long head of <span class="red">**triceps brachii**</span>
         
         :::
+    :::
+- humerus
+    :::spoiler <span class="dark-gray">*characteristics*</span>
+    1. largest bone of upper limb
+    2. articulates with
+        - scapula -- glenohumeral joint
+        - radius and ulna -- elbow joint
+    :::
+    :::spoiler <span class="dark-gray">*bone markings*</span>
+    - <span class="dark-gray">head</span>
+    - <span class="blue">anatomical neck</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. forms by the groove circumscribing the head and separate it from greater and lesser tubercle
+        2. <span class="red">**indicates the line of attachment of the glenohumeral joint capsule**</span>
+        :::
+    - <span class="blue">surgical neck</span>
+        :::spoiler detail
+        1. <span class="red">**common site of fracture**</span>
+        :::
+    - <span class="blue">greater tubercle</span>
+    - <span class="blue">lesser tubercle</span>
+    - <span class="blue">intertubercular sulcus</span>
+    - <span class="dark-gray">shaft</span>
+    - <span class="blue">supracondylar ridge</span>
+    - <span class="blue">epicondyle</span>
+    - <span class="blue">condyle</span>
     :::
 - ulna
     
