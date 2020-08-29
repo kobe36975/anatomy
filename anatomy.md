@@ -95,7 +95,7 @@
   - <span class="blue">trapezoid line</span>
     :::spoiler <span class="light-blue">*detail*</span>
     1. <span class="red">**trapezoid ligament**</span> attach
-    > conoid ligament + trapezoid ligament = coracoclavicular ligament
+    > conoid ligament + trapezoid ligament = coracoclavicular ligament [color=#61edb0]
   - <span class="blue">subclavian groove</span>
     :::spoiler <span class="light-blue">*detail*</span>
     1. attachment of <span class="red">**subclavius muscle**</span>
@@ -106,7 +106,7 @@
     2. limited elevation of shoulder
     :::
 - scapula
-    :::spoiler <span class="dark-gray">*detail*</span>
+    :::spoiler <span class="dark-gray">*characteristics*</span>
     - position
         - posterolateral aspect of thorax
         - overlying the <span class="red">2^nd^ - 7^th^ ribs</span>
@@ -199,23 +199,127 @@
         2. <span class="red">**indicates the line of attachment of the glenohumeral joint capsule**</span>
         :::
     - <span class="blue">surgical neck</span>
-        :::spoiler detail
+        :::spoiler <span class="light-blue">detail</span>
         1. <span class="red">**common site of fracture**</span>
         :::
     - <span class="blue">greater tubercle</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. lateral margin of humerus
+        2. three muscle attach to it
+            - **supraspinatus muscle** -- superior facet
+            - **infraspinatus muscle** -- middle facet
+            - **teres minor** -- inferior facet
+        :::
     - <span class="blue">lesser tubercle</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. anteriorly in contrast to greater tubercle
+        2. **subscapularis muscle** attaches to it
+        :::
     - <span class="blue">intertubercular sulcus</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. provide protected passage for the slender tendon of the <span class="red">**long head of biceps brachii**</span>
+        :::
     - <span class="dark-gray">shaft</span>
-    - <span class="blue">supracondylar ridge</span>
+        :::spoiler <span class="gray">detail</span>
+        1. deltoid tuberosity
+        2. radial groove
+            - oblique
+            - for <span class="red">**radial nerve and profunda brachii artery**</span> to pass
+        :::
+    - <span class="blue">supracondylar ridge(supraepicondylar ridge)</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. medial -- one muscle and one septum attaches
+            - **pronator teres**
+            - medial intermuscular septum
+        3. lateral -- two muscle and one septum attaches
+            - **brachioradialis**
+            - **extensor carpi radialis longus**
+            - lateral intermuscular septum
+        :::
     - <span class="blue">epicondyle</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. medial -- for <span class="red">**flexor muscle**</span>
+        2. lateral -- for <span class="red">**extensor muscle**</span>
+        :::
     - <span class="blue">condyle</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. articular surfaces
+            - capitulum -- articulate with <span class="red">**radial head**</span>
+            - trochlea
+                - pulley-like
+                - articulate with <span class="red">**trochlea notch of ulna**</span>
+        2. two fossa -- occur back to back
+            - coronoid fossa
+                - anteriorly
+                - receive coronoid process of ulna during full flexion
+            - olecranon fossa
+                - posteriorly
+                - receive olecranon of ulna during full extension
+        3. others
+            - radial fossa
+                - accommodates the edge of radial head when full flexion
+                - shallow
+            - ulna groove -- for ulnar nerve
+        :::
     :::
 - ulna
-    
-
+    :::spoiler <span class="dark-gray">*characteristics*</span>
+    - stabilizing bone
+    - medial and longer of the two forearm bones
+    - <span class="red">**does not reach and thus not participate in wrist joint(radiocarpal joint)**</span>
+    :::
+    :::spoiler <span class="dark-gray">*bone markings*</span>
+    - <span class="blue">olecranon</span>
+        :::spoiler <span class="gray">detail</span>
+        1. located at posterior side
+        :::
+    - <span class="blue">coronoid process</span>
+        :::spoiler <span class="gray">detail</span>
+        1. located at anterior side
+        :::
+    - <span class="blue">trochlea notch</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. primarily allows **only flexion and extension**
+        2. a small amount of abduction and adduction occurs during pronation and supination ($\because$ **anconeus**)
+        :::
+    - <span class="blue">tuberosity of ulna</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. inferior to coronoid process
+        2. attachment of the <span class="red">**tendon of brachialis**</span>
+        :::
+    - <span class="blue">radial notch</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. smooth,rounded concavity
+        2. receive broad periphery of the <span class="red">**head of radius**</span>
+        3. located <span class="red">**proximally**</span>
+        :::
+    - <span class="blue">supinator crest</span>
+        :::spoiler <span class="gray">detail</span>
+        1. inferior to radial notch
+        :::
+    - <span class="blue">supinator fossa</span>
+        :::spoiler <span class="gray">detail</span>
+        1. between supinator crest and distal part of coronoid process
+        > deep part of supinator muscle attaches to <span class="red">**supinator crest and supinator fossa**</span> [color=#61edb0]
+        :::
+    - <span class="blue">ulnar styloid process</span>
+    - <span class="dark-gray">shaft</span>
+        :::spoiler <span class="gray">detail</span>
+        1. thick and cylindrical proximally
+        2. tapers in diameter as it continues distally
+        :::
+    - <span class="dark-gray">head</span>
+        :::spoiler <span class="gray">detail</span>
+        1. disc-like
+        2. located in <span class="red">**distal end**</span>
+        :::
+    :::
 - radius
 - carpus
 - metacarpus
 - phalanges
 
 :::
+
+<span class="gray"></span>
+<span class="blue"></span>
