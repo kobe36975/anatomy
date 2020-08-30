@@ -363,11 +363,81 @@
         :::
     :::
 - carpus
-- metacarpus
-- phalanges
+    :::spoiler <span class="dark-gray">*function*</span>
+    - give flexibility to palm by 8 carpal bones
+    :::
+    :::spoiler <span class="dark-gray">*bone markings*</span>
+    - proximal row(from lateral to medial)
+        - <span class="blue">scaphoid</span>
+            :::spoiler <span class="light-blue">detail</span>
+            1. boat-shaped
+            2. <span class="red">**articulate with radius**</span>
+            3. has a <span class="red">**scaphoid tubercle**</span>
+            4. the largest bone in proximal row
+            :::
+        - <span class="blue">lunate</span>
+            :::spoiler <span class="light-blue">detail</span>
+            1. moon-shaped
+            2. <span class="red">**articulate with radius**</span>
+            3. broader anteriorly than posteriorly
+            :::
+        - <span class="blue">triquetrum</span>
+            :::spoiler <span class="gray">detail</span>
+            1. pyramidal bone
+            2. articulate with articular disc of radio-ulnar joint
+            :::
+        - <span class="blue">pisiform</span>
+            :::spoiler <span class="gray">detail</span>
+            1. pea-shaped,small
+            2. lies on the palmar surface of triquetrum
+            :::
+    - distal row(from lateral to medial)
+        - <span class="blue">tripezium</span>
+            :::spoiler <span class="gray">detail</span>
+            1. four-sided bone
+            2. articulate with 1^st^ and 2^nd^ metacarpals, scaphoid, and trapezoid bones
+            :::
+        - <span class="blue">tripezoid</span>
+            :::spoiler <span class="gray">detail</span>
+            1. wedge-shaped, resembles trapezium
+            2. articulates with 2^nd^ metacarpal, trapezium, capitate, and scaphoid bones
+            :::
+        - <span class="blue">capitate</span>
+            :::spoiler <span class="gray">detail</span>
+            1. head-shaped with a rounded extremity
+            2. <span class="red">**largest bone in carpus**</span>
+            3. articulates primarily with 3^rd^ metacarpal, trapezoid, scaphoid, lunate, hamate
+            :::
+        - <span class="blue">hamate</span>
+            :::spoiler <span class="light-blue">detail</span>
+            1. wedge-shaped
+            2. articulates with 4^th^ and 5^th^ metacarpal bones, capitate, and triquetrum
+            3. has the <span class="red">**hook of hamate**</span>
+            :::
+    :::
+    :::spoiler <span class="dark-gray">*fun facts*</span>
+    > each carpal bone usually ossifies from one center postnatally[color=blue]
 
+    > the center for capitate and hamate appears first [color=blue]
+
+    :::
+- metacarpus
+    :::spoiler <span class="dark-gray">*detail*</span>
+    1. 5 metacarpal bones
+    2. each consists of a base, shaft, and head
+    3. proximal bases of metacarpals articulate with carpal bones
+    4. distal heads of metacarpals articulate with proximal phalanges and form the knuckles of the hand
+    5. <span class="red">**the 1^st^ metacarpal**</span> is the thickest and shortest of metacarpal bones
+    6. <span class="red">**the 3^rd^ metacarpal**</span> has a styloid process on lateral side of its base
+    :::
+- phalanges
+    :::spoiler <span class="dark-gray">*detail*</span>
+    1. phalanges of the first digit are stouter
+    2. each consists of a base, shaft, and head
+    :::
+    
 [^1]: 見 interosseous border of radius
 
 :::
-<span class="gray"></span>
-<span class="blue"></span>
+
+## 
