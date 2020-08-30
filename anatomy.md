@@ -8,7 +8,7 @@
     color: #F94343;
 }
 .green {
-    color: #00F312;
+    color: #61edb0;
 }
 .purple {
     color: #753CE9;
@@ -313,13 +313,61 @@
         1. disc-like
         2. located in <span class="red">**distal end**</span>
         :::
+    - <span class="dark-gray">interosseous border of ulna [^1]</span>
     :::
 - radius
+    :::spoiler <span class="dark-gray">*shape*</span>
+    - lateral and shorter of the two forearm bones
+    :::
+    :::spoiler <span class="dark-gray">*bone markings*</span>
+    - <span class="dark-gray">head</span>
+        :::spoiler <span class="gray">detail</span>
+        1. <span class="red">**in proximal end**</span>
+        2. concave
+        3. articulate with the capitulum of humerus during flexion and extension
+        4. also articulate with <span class="red">**radial notch of ulna**</span>
+        :::
+    - <span class="dark-gray">neck</span>
+    - <span class="blue">radial tuberosity</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. distal to the medial part of neck
+        2. demarcates the proximal end from the shaft
+        3. one of the insertion site for <span class="red">**biceps brachii**</span>
+        :::
+    - <span class="dark-gray">shaft</span>
+        :::spoiler <span class="gray">detail</span>
+        1. in contrast to ulna,radius enlarges as it passes distally
+        2. the distal end is essentially <span class="red">**four sided**</span> when sectioned transversely
+        :::
+    - <span class="blue">ulnar notch</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. located <span class="red">**distally**</span>
+        2. accommodates the <span class="red">**head of ulna**</span>
+        :::
+    - <span class="dark-gray">dorsal tubercle</span>
+        :::spoiler <span class="gray">detail</span>
+        1. lies between
+            - groove for extensor pollicis longus
+            - groove for extensor carpi radialis longus and brevis
+        :::
+    - <span class="dark-gray">radial styloid process</span>
+        :::spoiler <span class="gray">detail</span>
+        1. larger than ulnar styloid process and extend farther distally
+        > this relationship of styloid is clinically important when the ulna and/or radius is fractured[color=#61edb0]
+        :::
+    - <span>interosseous border of radius[^1]</span>
+        :::spoiler <span class="light-blue">detail</span>
+        1. since both radius and ulna are triangular in cross section,the apex of radius and ulna forms the <span class="red">**interosseous membrane**</span>
+        > the majority fibers of interosseous membrane run an **oblique course**,passing inferiorly from radius to ulna [color=#61edb0]
+        > thus,they **transmit forces** received by radius to ulna [color=#61edb0]
+        :::
+    :::
 - carpus
 - metacarpus
 - phalanges
 
-:::
+[^1]: 見 interosseous border of radius
 
+:::
 <span class="gray"></span>
 <span class="blue"></span>
