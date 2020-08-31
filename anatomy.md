@@ -1,3 +1,9 @@
+---
+title: Anatomy
+image: https://i.imgur.com/VT6nPNx.jpg
+---
+###### [*back to Manual*](/bTUZEDzgQca3ND07Kryubg)
+
 [TOC]
 
 <style>
@@ -355,8 +361,9 @@
         1. larger than ulnar styloid process and extend farther distally
         > this relationship of styloid is clinically important when the ulna and/or radius is fractured[color=#61edb0]
         :::
-    - <span>interosseous border of radius[^1]</span>
+    - <span>interosseous border of radius [^1]</span>
         :::spoiler <span class="light-blue">detail</span>
+        ###### tags: interosseous border of radius
         1. since both radius and ulna are triangular in cross section,the apex of radius and ulna forms the <span class="red">**interosseous membrane**</span>
         > the majority fibers of interosseous membrane run an **oblique course**,passing inferiorly from radius to ulna [color=#61edb0]
         > thus,they **transmit forces** received by radius to ulna [color=#61edb0]
@@ -418,7 +425,7 @@
     :::spoiler <span class="dark-gray">*fun facts*</span>
     > each carpal bone usually ossifies from one center postnatally[color=blue]
 
-    > the center for capitate and hamate appears first [color=blue]
+    > the center for capitate and hamate appears first postnatally[color=blue]
 
     :::
 - metacarpus
@@ -440,4 +447,83 @@
 
 :::
 
-## 
+#### additional remarks
+
+
+:::success
+:::spoiler <span></span>
+> Four characteristics allow independent operation of upper limb  
+> 1. the upper limb are not involved in weight bearing or ambulation  
+> 2. the pectoral girdle is attached to axial skeleton only anteriorly via a very mobile joint(<span class="red">**sternoclavicular joint**</span>)  
+> 3. paired  bones of forearm can be moved relative to each other  
+> 4. long,mobile fingers & opposable thumb  
+::: 
+
+---
+
+### clinical box
+###### tags: TL;DR
+:::info
+:::spoiler <span></span>
+- fracture of clavicle
+    :::spoiler <span class="dark-gray">*detail*</span>
+    1. one of the most frequently fractured bone
+    2. often cause by indirect force transmitted from forearm and arm during fall
+    3. weakest part: <span class="red">**junction of middle and lateral third**</span>
+    4. sternocleidomastoid muscle(位在 platysma muscle後方) elevates medial fragment of bone
+    5. trapezius muscle is unable to hold upper limb => **shoulder drop**
+    6. coracoclavicular ligament prevent dislocation of AC joint
+    7. lateral fragment may be pulled medially by adductor muscle(eg. **pectoralis major**)
+    8. clavicle of neonates may be fractured during delivery; however, the bone usually heal quickly
+    :::
+- ossification of clavicle
+    :::spoiler <span class="dark-gray">*detail*</span>
+    1. first long bone to ossify
+    2. begin in the **5^th^ & 6^th^** embryonic week
+    3. from medial to lateral
+    :::
+- fracture of humerus 
+    :::spoiler <span class="dark-gray">*detail*</span>
+    1. proximal end: fracture occurs at surgical neck most frequently
+    2. muscle(especially **subscapularis**) that remain attached to the humerus pull the limb into medial rotation
+    3. | humerus | contacting nerves |
+       | --------------------- | ----------------- |
+       | surgical neck         | axillary nerve    |
+       | radial groove         | radial nerve      |
+       | distal end of humerus | median nerve      |
+       | medial epicondyle(ulnar groove) | ulnar groove |
+    :::
+- fracture of radius & ulna
+    ::: spoiler <span class="dark-gray">*detail*</span>
+    1. <span class="red">**Colles fracture**</span>: complete transverse fracture of the distal 2 cm of radius => the most common fracture of forearm
+    > 發生於跌倒時手掌撐地 [color=red]
+    2. dinner fork deformation: when Colles fracture, radius become shorter than ulna => ulnar styloid process avulse
+    :::
+- fracture of scaphoid
+    :::spoiler <span class="dark-gray">*detail*</span>
+    1. most frequently fracture of carpal bones
+    2. result from a fall when hand is **abducted**
+    3. pain is produced in anatomical snuff box, especially during wrist dorsiflextion & abduction(muscle of dorsal side contract)  
+    4. **often misdiagnosed as severely sprained wrist**
+    5. $\because$ poor blood supply $\therefore$ it takes at least 3 months to heal
+    6. Avascular necrosis of proximal fragment of scaphoid may occur($\because$ inadequate blood supply) => produce degenerative joint disease
+    :::
+- fracture of hamate
+    :::spoiler <span class="dark-gray">*detail*</span>
+    1. $\because$ hypothenar muscle attaches to hook of hamate $\therefore$ fracture of hamate might cause nonunion of fractured bone
+    2. it might hurt ulnar nerve & ulnar artery
+    :::
+- fracture of metacarpals
+    :::spoiller <span class="dark-gray">*detail*</span>
+    1. boxer's fracture: fracture of 5^th^ metacarpal, occurs when punching with **close & abducted fist**
+    :::
+:::
+
+### Fascias
+
+:::info
+:::spoiler <span> </span>
+
+:::
+
+
